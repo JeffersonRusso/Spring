@@ -1,2 +1,2 @@
 # Spring
-Aplicações Spring bott para web feitas no curso Bootcamp da Generation Brazil
+Aplicações Web feitas com Spring boot, produzidas no curso Bootcamp da Generation Brazil
